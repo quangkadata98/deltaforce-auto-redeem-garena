@@ -1,0 +1,12 @@
+{
+  "name": "delta-force-redeem-bot",
+  "version": "1.0.0",
+  "description": "Auto redeem giftcodes for Delta Force",
+  "main": "redeem.js",
+  "scripts": {
+    "start": "node redeem.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}

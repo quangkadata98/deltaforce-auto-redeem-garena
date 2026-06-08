@@ -1,0 +1,14 @@
+// =====================================================
+// DELTA FORCE AUTO REDEEM - DANH SACH GIFTCODE
+// =====================================================
+// Huong dan:
+//   - Xoa cac dong nay va dan code vao day
+//   - Moi code 1 dong
+//   - Cac dong bat dau bang // se bi bo qua (ghi chu)
+//   - Code trung lap se tu dong bi loc, khong can lo
+// =====================================================
+// Vi du:
+// DFOSS260405B69
+// DFReliable732
+// DFUT2025FINALS1549
+// =====================================================
